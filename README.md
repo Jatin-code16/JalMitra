@@ -4,8 +4,6 @@
 
 JalMitra helps small farmers decide **when and how much to irrigate**. Soil-moisture, temperature and humidity readings from the field feed a crop-aware recommendation engine. Farmers can see live field conditions, switch their water pump on or off remotely over MQTT, track weekly water usage, and ask questions in Hindi/Hinglish to **Saathi**, an AI assistant powered by Google Gemini.
 
-The project was built as a B.Tech (IT) 6th-semester minor project at Rungta College of Engineering & Technology, Bhilai (CSVTU), session 2025–26. The full project report is in [JalMitra_Minor_Project_Report.md](JalMitra_Minor_Project_Report.md).
-
 ---
 
 ## ✨ Features
