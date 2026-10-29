@@ -136,7 +136,7 @@ Settings in `jalmitra-backend/.env` (see [.env.example](jalmitra-backend/.env.ex
 
 | Variable | Required | Notes |
 |---|---|---|
-| `DATABASE_URL` | ✅ | e.g. `postgresql+asyncpg://postgres:password@localhost:5432/jalmitra` |
+| `DATABASE_URL` | ✅ | e.g. `postgresql+asyncpg://postgres:password@localhost:xxxx/jalmitra` |
 | `JWT_SECRET` | ✅ | Long random string |
 | `GEMINI_API_KEY` | ✅ | For the Saathi chatbot |
 | `DEBUG` | | Default `true`. Set `false` in production to hide `debug_otp` |
